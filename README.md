@@ -1,22 +1,35 @@
 # Hi, I'm Muhammad Ghani 👋
 
-I’m on a **90-Day AI/ML Roadmap** to go from beginner → job-ready **AI/ML Engineer**.  
-This profile will showcase my projects in Python, Data Science, Machine Learning, Deep Learning, and NLP.
+**AI/ML learner** building projects in Python, Data Science, and Web basics.  
+I’m documenting my journey and shipping small projects regularly.
 
-## 🚀 Featured Projects (filling in as I build)
-- 🐍 Python Exercises & Mini Scripts — (repo link)
-- 📊 Data Cleaning & EDA (Pandas/NumPy) — (repo link)
-- 📈 Visualization Dashboards (Matplotlib/Seaborn/Plotly) — (repo link)
-- 🤖 Kaggle Titanic ML Pipeline — (repo link)
+---
 
-## 🛠️ Skills (Learning & Applying)
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
-TensorFlow • CNNs • RNNs • NLP • Docker • Flask/FastAPI
+## 🔥 Featured Projects
+- **Car Mechanic Website** — responsive frontend (HTML/CSS/JS)  
+  👉 https://github.com/Muhammad-Ghani/car-mechanic-app
+- **Shoe Brand Landing Page** — modern landing UI  
+  👉 https://github.com/Muhammad-Ghani/shoe-brand-landing
+- **Number Color App** — changes page color from user input  
+  👉 https://github.com/Muhammad-Ghani/number-color-app
+- **Digital Clock (JS)** — simple digital clock  
+  👉 https://github.com/Muhammad-Ghani/Ghani-Digitalclock
 
-## 📅 Roadmap Focus
-- Month 1: Python + Data Science
-- Month 2: ML + Deep Learning
-- Month 3: LLMs + Capstone
+> More projects coming (Python calculator, dashboards, ML models).
 
-## 📫 Connect
-[GitHub](https://github.com/Muhammad-Ghani)
+---
+
+## 🗓️ Public Learning Journal
+- **120-Day AI/ML Journal**: daily notes and practice  
+  👉 https://github.com/Muhammad-Ghani/ai_ml_day1
+
+---
+
+## 🧰 Tech I’m using/learning
+Python • Pandas • NumPy • scikit-learn • TensorFlow (basics) •  
+Jupyter • Git/GitHub • HTML • CSS • JavaScript
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Muhammad-Ghani
