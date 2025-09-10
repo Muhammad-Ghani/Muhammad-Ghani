@@ -1,33 +1,24 @@
 # Hi, I'm Muhammad Ghani 👋
 
-**AI/ML learner** building projects in Python, Data Science, and Web basics.  
-I’m documenting my journey and shipping small projects regularly.
+**AI/ML learner** shipping small projects in Python and web basics — learning in public and improving every day.
 
 ---
 
 ## 🔥 Featured Projects
 - **Car Mechanic Website** — responsive frontend (HTML/CSS/JS)  
   👉 https://github.com/Muhammad-Ghani/car-mechanic-app
-- **Shoe Brand Landing Page** — modern landing UI  
+- **Shoe Brand Landing Page** — modern landing UI (HTML/CSS/JS)  
   👉 https://github.com/Muhammad-Ghani/shoe-brand-landing
-- **Number Color App** — changes page color from user input  
-  👉 https://github.com/Muhammad-Ghani/number-color-app
-- **Digital Clock (JS)** — simple digital clock  
+- **Digital Clock (JS)** — simple digital clock with live time updates  
   👉 https://github.com/Muhammad-Ghani/Ghani-Digitalclock
 
-> More projects coming (Python calculator, dashboards, ML models).
-
----
-
-## 🗓️ Public Learning Journal
-- **120-Day AI/ML Journal**: daily notes and practice  
-  👉 https://github.com/Muhammad-Ghani/ai_ml_day1
+> More projects in my **Repositories** tab.
 
 ---
 
 ## 🧰 Tech I’m using/learning
-Python • Pandas • NumPy • scikit-learn • TensorFlow (basics) •  
-Jupyter • Git/GitHub • HTML • CSS • JavaScript
+Python • NumPy • Pandas • scikit-learn • Jupyter •  
+Git & GitHub • VS Code • HTML • CSS • JavaScript
 
 ---
 
