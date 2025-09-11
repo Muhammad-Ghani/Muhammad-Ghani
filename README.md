@@ -1,47 +1,45 @@
-# 👋 Hi, I’m [Muhammad-Ghani]
+# Hi, I’m Muhammad Ghani
 
-🚀 **Aspiring AI/ML Engineer**  
-🎯 Goal: Build production-ready AI systems and grow into top tech roles.  
-📍 Mission: Learn → Build → Share → Scale
-
----
-
-## 🛠️ Skills (In Progress)
-- Python, NumPy, Pandas, Scikit-learn  
-- Machine Learning (Regression, Classification, Clustering)  
-- Deep Learning (PyTorch, TensorFlow, CNNs, RNNs, Transformers)  
-- NLP (Text Classification, Sentiment Analysis, Hugging Face)  
-- LLMs & Generative AI (Fine-tuning, Prompting, RAG)  
-- Tools: Jupyter, Git/GitHub, FastAPI, Docker  
+🚀 I’m on a 90-Day AI/ML Roadmap to grow from beginner → job-ready AI/ML Engineer  
+This profile will showcase my work in Python, Data Science, Machine Learning, Deep Learning, NLP, and LLMs.
 
 ---
 
-## 📂 Projects (Will Update as I Progress)
-- Exploratory Data Analysis (EDA)  
-- ML Model: Prediction Pipeline  
-- Deep Learning: Image Classifier  
-- NLP: Text Classification  
-- LLM Fine-Tuning Demo  
-- RAG Q&A App  
-- Capstone: End-to-End AI Pipeline  
+## 🖥 Skills (Learning & Applying)
+Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
+Deep Learning • Neural Networks • NLP • Transformers • LLM Fine-Tuning  
+Docker • FastAPI • Model Deployment • Data Cleaning & EDA  
 
 ---
 
-## 🎓 Certifications (Ongoing)
-- IBM AI Engineering (Coursera)  
-- DeepLearning.AI Specializations  
-- Hugging Face Transformers  
-- Generative AI  
+## 📂 Projects & Milestones
+
+| Project | Status | Tech / Skills | Outcome / Metric |
+|---------|--------|----------------|-------------------|
+| Python Exercises & Mini Scripts | Done | Python, Basic Algorithms | Practice in coding discipline |
+| Data Cleaning & EDA | Done | Pandas, NumPy, Visualization | Insights from dataset X |
+| Visualization Dashboards | In Progress | Matplotlib / Plotly | … |
+| Kaggle Titanic ML Pipeline | Upcoming | scikit-learn, classification, ML pipeline | Benchmark model accuracy |
+| Image Classifier with Transfer Learning | Upcoming | PyTorch, CNN, Data Augmentation | … |
+| NLP / Text Classification | Upcoming | Transformers, Tokenization | … |
+| LLM Fine-Tuning Demo | Upcoming | Hugging Face, Prompt Engineering | … |
+| RAG Q&A App + API | Upcoming | FastAPI, FAISS or Vector DB | … |
+| End-to-End Capstone: Data → Train → Serve | Upcoming | All of above + Deployment + Logging | … |
 
 ---
 
-## 📈 Learning Roadmap
-1. **Stage 1:** Python, NumPy, Pandas, scikit-learn basics → ML projects  
-2. **Stage 2:** Deep Learning → Image & NLP projects  
-3. **Stage 3:** Transformers & LLMs → Fine-tuning + RAG apps  
-4. **Stage 4:** Generative AI → AI demos & deployment  
-5. **Stage 5:** End-to-End AI portfolio → Job readiness  
+## 🛠 Roadmap Focus
+
+- **Month 1:** Data Science & Foundations → Clean data, build small ML models  
+- **Month 2:** Deep Learning & Vision/NLP → Build CNN / text classification projects  
+- **Month 3:** LLMs & Production → Fine-tuning, RAG apps, Serving & Deployment
 
 ---
 
-⭐️ *“Eat code, sleep models, repeat — until mastery.”*
+## 🤝 Connect & Growth
+
+*(I’ll update with links & demos as I complete them.)*  
+
+---
+
+⭐ “Eat code, sleep models, repeat — until mastery.”
