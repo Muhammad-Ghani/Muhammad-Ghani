@@ -16,10 +16,5 @@ This profile showcases my projects in Python, Data Science, and ML.
 Python • Pandas • NumPy • Matplotlib • Seaborn • scikit-learn •  
 Jupyter • Git/GitHub • HTML • CSS • JavaScript
 
-## 🎯 Roadmap Focus
-- Month 1: Python + Data Science
-- Month 2: ML + Deep Learning
-- Month 3: LLMs + Capstone
-
 ## 🔗 Connect
 GitHub: https://github.com/Muhammad-Ghani
